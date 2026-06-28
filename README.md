@@ -37,7 +37,7 @@ For a safe test, you can run from Terminal:
 
 ## GitHub
 
-https://github.com/Pichfork-and-Torch/apple-notes-to-pdf
+https://github.com/Pichfork-and-Torch/Apple-Notes-to-PDF
 
 Download the Release zip for the easiest experience.
 
